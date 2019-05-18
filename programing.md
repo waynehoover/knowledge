@@ -1,3 +1,4 @@
-## Programing 
+# Programing
 
-- Ruby, JS, Elixir and everything else.
+* Ruby, JS, Elixir and everything else.
+
