@@ -8,7 +8,4 @@ To quickly search my files I have created a simple alfred workflow that searches
 
 From alfred I can quickly open a file to edit or get information from.
 
-<<<<<<< HEAD
 From alfred I can quickly open a file to edit or get information from. I am using alfred-grep as explained [here](https://medium.com/@Gr3g0ire/searching-and-viewing-your-notes-efficiently-with-alfred-32f716db5ae2) to quckly search inside all my notes inside alfred.
-=======
->>>>>>> 134d222b4d6dde922f8e4ec995d40b444e48ef3b
