@@ -4,5 +4,6 @@
 * [Books](books.md)
 * [Meta](meta.md)
 * [Programing](programing.md)
+* [Quotes](quotes.md)
 * [Now](now.md)
 
