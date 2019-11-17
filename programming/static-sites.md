@@ -23,7 +23,7 @@
     - kb.waynehoover.com
 - Cloudflare
     - Deployed "hostless" via KV store. Only solution that costs $5/month to start. Small amount of space given, not much for images. 
-    - Benefit is access to powerful serverless workers that site in front of the site.
+    - Benefit is access to powerful serverless workers that site in front of the site, but can also get this by just using their DNS.
 
 ## Headless CMS
 - List here: https://headlesscms.org
@@ -31,3 +31,13 @@
 - https://sanity.io
 - https://forestry.io
 - https://contentful.com
+
+### HealingBeats.com
+This is basic a static site I built to sell my Binaural Beats.
+- created with parcel.js using pug, and tailwind.js 
+- deployed with Netlify. 
+- Payhip.io for payments. 
+- Netlify forms -> zapier -> emailoctopus.com (AWS SES plan) for email signups.
+- DNS hosted with cloudflare, because I'm testing workers for possibly rolling my own authenticated download area.
+- MX (email forwarding) hosted by improvmx.com
+- AWS for my transactional and even my email list (through emailoctopus)
