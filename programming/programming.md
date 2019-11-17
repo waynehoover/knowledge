@@ -1,4 +1,4 @@
-# Programing
+# Languages and Frameworks
 
 Languages I know fairly well
 * Ruby
