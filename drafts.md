@@ -1,0 +1,22 @@
+Some things to write about there:
+- Keyboards
+    - Boards
+    - Layouts
+    - Switches
+    - Keycaps
+- Programming
+    - programming
+    - Serverless
+    - ruby
+- Consciousness
+    - Psychedelics
+    - Meditation
+    - Yoga
+    - Tantra
+- Community Living
+- Slacklining
+- Juggling
+- Festivals
+- Travel
+- Current EDC items
+- Fitness

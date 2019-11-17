@@ -35,3 +35,7 @@ Frameworks I have used
 * Angular 1 and 2
 * VueJS
 * Rails 3,4,5
+
+Serverless
+- Lambda
+- Cloudflare

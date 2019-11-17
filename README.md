@@ -1,8 +1,7 @@
 # Introduction
 
-This is my open commonplace book. Sometimes this is called a personal knowledge wiki or personal knowledge base. 
+This is my open commonplace book, or personal knowledge wiki.
 
-Use the navigation on search to read my thoughts, learnings, and general ideas on a topic.
+Use the sidebar or the search field to get a glimpse into my mind.
 
-Click [here](meta.md) for how this commonplace book is built and how I use it.
-
+Click [here](meta.md) for the tools I use to put this together, and how I use it.
