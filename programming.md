@@ -17,9 +17,9 @@ Languages I'm interested in learning (in order)
 * Crystal
   * The ability to package up a single binary is nice, it's like go but better for me because I know ruby. Static typed, compiled, fast.
 * Rust
-  * To broaden my horizons really, and think more about memory management.
+  * To broaden my horizons to think more about memory management.
 * Nim
-  * For most of the same reasons as crystal but with a couple interesting language features like its generics and method overloading.
+  * For most of the same reasons as crystal but with a couple interesting language features like its generics and method overloading. It's kind of like crystal is to ruby as nim is to python.
 
 Frameworks I'm interested in learning
 * Amber - Crystal

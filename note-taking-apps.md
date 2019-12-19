@@ -17,4 +17,4 @@
 - https://roamresearch.com/ - enjoying for now.
 - https://workflowy.com/
 - dynalist
-- notion
+- notion.so

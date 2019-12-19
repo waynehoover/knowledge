@@ -18,5 +18,4 @@ Some things to write about there:
 - Juggling
 - Festivals
 - Travel
-- Current EDC items
-- Fitness
+- Current EDC items [[quote]]

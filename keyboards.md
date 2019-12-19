@@ -1,5 +1,21 @@
 # Keyboards
 - Boards
+    - Lily58 - had and sold
+    - Corne - want to try
+    - Kyria - on its way to me
+    - Iris - had two and sold
+    - Ergodox - had and sold
 - Layouts
+    - https://github.com/waynehoover/dvorak-alt-layouts
+    - My lily58 layout https://github.com/waynehoover/qmk_firmware/tree/wayne-dvorakiu/keyboards/lily58/keymaps/lily_dvorakiu
+    - My Iris layout https://github.com/waynehoover/qmk_firmware/tree/wayne-dvorakiu/keyboards/keebio/iris/keymaps/wayne-dvorakiu
 - Switches
+    - linear
+        - gat yellow
+        - cherry red
+        - gat pro blacks
+        - zealious
 - Keycaps
+    - DSA profile
+    - Cherry profile
+    - SA profile
