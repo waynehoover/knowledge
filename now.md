@@ -1,5 +1,5 @@
 # now
 
-I'm currently in northern San Diego county. 🏄 
+I'm currently in the Rainbow State 🌈 working as a freelance software developer.
 
-Currently working remotely as a senior software engineer.
+If you need help with your website or application let me know I would love to help. 😃

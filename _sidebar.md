@@ -16,3 +16,4 @@
 * Travel
 * Current EDC items
 * Fitness
+* [Now](now.md)
