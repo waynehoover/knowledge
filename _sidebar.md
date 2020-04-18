@@ -9,12 +9,9 @@
 * [Pens](pens.md)
 * Mac
     * [Note Taking Apps](note-taking-apps.md)
-* Community Living
-* Slacklining
-* Juggling
-* Festivals
-* Travel
-* Current EDC items
-* Fitness
+* [Youtube Channels](youtube.md)
+* [Community Chat Links](community-chats.md)
+* [Blogs](blogs.md)
 * [Now](now.md)
 * [About Me](me.md)
+* [TODO](todo.md)
