@@ -5,7 +5,7 @@
 * [Quotes](quotes.md)
 * [Books](books.md)
 * [Pens](pens.md)
-
+* [Personal Wikis](personal-wikis.md)
 * [Youtube Channels](youtube.md)
 * [Community Chat Links](community-chats.md)
 * [Blogs](blogs.md)
