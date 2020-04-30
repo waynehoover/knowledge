@@ -16,5 +16,5 @@ Or host it with an app like:
 
 ## Examples
 - This site you are reading now 😎
-- https://wiki.nikitavoloboev.xyz/
+- https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked -list of examples
 
